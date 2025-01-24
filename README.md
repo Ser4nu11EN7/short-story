@@ -4,6 +4,15 @@
 win+r，输入cmd，输入cd C:/XXX/story，路径进入文件夹后输入npm start启动程序
 ![image](https://github.com/user-attachments/assets/79a8de33-79d8-4f88-bff6-2942092ca84c)
 
+## 使用环境
+ - 应用支持 Windows、macOS 和 Linux（因为使用了 Electron）
+ - 环境依赖：Node.js（建议版本 >= 14.0.0）
+ - 其他依赖会通过 npm install 自动安装：
+ - electron（桌面应用框架）
+ - axios（HTTP 客户端）
+ - typescript（TypeScript 支持）
+ - webpack（打包工具）
+ - 其他开发依赖
 
 ## 主要功能
 

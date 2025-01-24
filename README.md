@@ -2,7 +2,8 @@
 一个通过生成短文来学英语的软件
 ## 使用方法
 win+r，输入cmd，输入cd /C/XXX/story，路径进入文件夹后输入npm start启动程序
-![image](https://github.com/user-attachments/assets/6ae1693d-077b-4ddf-9617-d74a7ec43478)
+![image](https://github.com/user-attachments/assets/79a8de33-79d8-4f88-bff6-2942092ca84c)
+
 
 ## 主要功能
 
